@@ -43,8 +43,3 @@ A modern banking UI that allows users to log in, transfer money, request loans, 
 
 ## **📜 License**  
 This project is for educational purposes only.  
-
----
-
-This README is **clear, professional, and structured** like the reference repo.  
-Let me know if you need changes before adding it to your GitHub! 🚀
